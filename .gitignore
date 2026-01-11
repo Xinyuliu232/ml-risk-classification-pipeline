@@ -1,0 +1,36 @@
+# =====================
+# R session / temp files
+# =====================
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# =====================
+# OS / editor temp files
+# =====================
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# =====================
+# Raw & processed data files （didn't upload）
+# =====================
+Dataset.txt
+dataset_clean.txt
+hup_gene.txt
+# *.txt
+
+
+# =====================
+# Model intermediate objects
+# =====================
+*.rds
+*.RDS
+
+# =====================
+# Logs
+# =====================
+*.log
+
