@@ -76,7 +76,7 @@ Metrics were computed on the held-out test set using the pipeline’s `get_metri
 |      XGBoost | 0.9167 | 0.8889 | 1.0000 | 0.8750 | 0.9375 |
 |          MLP | 1.0000 | 1.0000 | 1.0000 | 1.0000 | 1.0000 |
 
-### 3.3 Notes on interpretation (important)
+### 3.3 Notes on interpretation
 
 * **Multiple models achieving ACC/AUC=1** can occur when the test set is small, the classes are highly separable
 
