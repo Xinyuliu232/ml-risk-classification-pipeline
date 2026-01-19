@@ -1,6 +1,4 @@
 # Machine Learning Pipeline for DKD Classification
-# Virtual Example Dataset + Real sample.txt & hub_genes
-# Author: Xinyu
 ############################################################
 
 set.seed(123)
